@@ -8,7 +8,7 @@
 Summary:	OpenStackClient Library
 Name:		python-osc-lib
 Version:	1.7.0
-Release:	6
+Release:	7
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/osc-lib/osc-lib-%{version}.tar.gz
